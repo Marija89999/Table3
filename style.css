@@ -1,0 +1,40 @@
+body {
+    font-family: "Itim", cursive;
+}
+
+.orange{
+    background-color: rgb(255, 165, 0);
+    color: white;
+}
+
+.green{
+    background-color: rgb(22, 192, 59);
+    color: white;
+    border-top: 2px solid black;
+}
+
+.blue{
+    background-color: rgb(81, 78, 255);
+    color: white;
+    border-top: 2px solid black;
+}
+
+
+tr > td {
+    width: 200px;
+    border: 2px solid black;
+    padding: 0;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+
+div{
+    padding: 5px;
+}
+
+.border-top{
+    border-top: 2px solid black;
+}
